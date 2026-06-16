@@ -1,0 +1,25 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Sheets Hierarchical Structure - Depth First
+SheetNumberMethod=Increasing
+DocumentName0=Distortion_outputbuffer.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Inputbuffer_Equalizer.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=Phaser_1.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+DocumentName3=Phaser_2.SchDoc
+UniqueIDPath3=
+SheetNumber3=4
+DocumentName4=Power_supply.SchDoc
+UniqueIDPath4=
+SheetNumber4=5
+DocumentName5=Tremolo.SchDoc
+UniqueIDPath5=
+SheetNumber5=6
+
+

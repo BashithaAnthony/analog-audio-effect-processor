@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\user\OneDrive\Desktop\Analog_Project\PCB_Design\Analog_Project_Sem3\Analog_Audio_Processor.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=analog_audio_processor-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=analog_audio_processor-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Analog_Project_Sem3.PrjPcb]
+   Generated File[Analog_Audio_Processor-RoundHoles.TXT]
+   Generated File[Analog_Audio_Processor-SlotHoles.TXT]
+   Generated File[Analog_Audio_Processor.DRL]
+   Generated File[Analog_Audio_Processor.LDP]
+   Generated File[Analog_Audio_Processor.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 5:26:42 PM On 10/19/2025
