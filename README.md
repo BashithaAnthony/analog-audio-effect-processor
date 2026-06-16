@@ -22,10 +22,11 @@ Fully analog audio processing unit incorporating multiple audio effects, equaliz
 
 ## My Contributions
 
-* Designed and simulated analog effect circuits
-* Developed PCB layouts and hardware implementation
+* Designed and simulated overdrive/distortion unit, input and output buffer circuits
+* Developed the PCB using Altium
 * Performed circuit analysis and validation
 * Integrated multiple effect stages into a single system
+* Designed initial sketches of enclosure and assisted in dinal enclosure designing
 
 ## Project Status
 
