@@ -4,6 +4,8 @@
 
 Fully analog audio processing unit incorporating multiple audio effects, equalization stages, and dedicated power supply circuitry for audio signal enhancement.
 
+![Product Overview](images/final_product_0.png)
+
 ## Features
 
 * Equalizer section
